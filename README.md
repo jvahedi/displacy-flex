@@ -1,4 +1,4 @@
-# DisplacyFlex
+# DisplaCy Flex
 
 DisplacyFlex extends the functionality of spaCy's displacy module, providing users with enhanced flexibility to visualize and manage named entity recognition (NER) results across various text-based projects. With DisplacyFlex, customize and scale your text processing workflows with ease and precision.
 
